@@ -224,6 +224,7 @@ button {
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
+  background-attachment: fixed
 }
 .cover-wrapper .cover-bg.lazyload:not(.loaded) {
   opacity: 0;
